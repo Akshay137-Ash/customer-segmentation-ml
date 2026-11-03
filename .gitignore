@@ -1,0 +1,16 @@
+
+# Competition datasets and generated submissions
+*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
